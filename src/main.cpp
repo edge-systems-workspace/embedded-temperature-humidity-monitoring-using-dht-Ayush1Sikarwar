@@ -7,7 +7,6 @@
  * @details
  * This program reads environmental data from the DHT11 sensor
  * and displays temperature and humidity values on Serial Monitor.
- * Students must complete the TODO sections.
  **/
 #include <Arduino.h>
 #include <DHT.h>
