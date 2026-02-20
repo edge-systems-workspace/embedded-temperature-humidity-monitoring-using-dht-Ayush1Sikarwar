@@ -4,6 +4,7 @@
  * @author Ayush Kumar Sikarwar
  * @date 19/02/2026
  *
+ *
  * @details
  * This program reads environmental data from the DHT11 sensor
  * and displays temperature and humidity values on Serial Monitor.
